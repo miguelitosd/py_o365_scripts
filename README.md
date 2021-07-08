@@ -4,7 +4,7 @@ py_o365_scripts
 Small set of scripts I cobbled together after doing a bunch of google searches for how to delete/move emails via python in o365
 
 ## Requirements:
-* A windows box with python on the win32com.client module installed
+* A windows box with python and the win32com.client module installed
 * outlook configured and running on the box against the exchange/o365 environment you want the scripts to work against.
 
 ## Files
